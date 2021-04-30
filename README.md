@@ -12,6 +12,7 @@ SK C&amp;C DS과정 PreLab 정리를 위한 기본 Source Repository (Clone 후�
 
 # 데이터 설명
 * 입금, 출금, 대출, 지불, 송금등의 거래에서 이행행위에 대한 데이터
+## Column Desc
 |컬럼명           | 설명                                                                    |Type |
 |-----------------|-------------------------------------------------------------------------|-----|
 |type             | 지불 방식(1 : CASH IN, 2: CASH OUT, 3 :DEBIT, 4 : PAYMENT, 5 : TRANSFER)|International -범주형|
