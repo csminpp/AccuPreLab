@@ -1,6 +1,3 @@
-# AccuPreLab
-SK C&amp;C DS과정 PreLab 정리를 위한 기본 Source Repository (Clone 후에 현재 라인은 제거해 주세요.)
-
 # System 구성
 ![](img/sysArch.png)
 
