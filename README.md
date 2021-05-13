@@ -1,5 +1,5 @@
 # System 구성
-![](img/sysArch.png)
+![](.img/sysArch.png)
 
 
 
